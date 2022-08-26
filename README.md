@@ -1,7 +1,7 @@
 # Opa, eu sou o Freitas, Bem vindo
 
 - 💻 Cursando Desenvolvimento de Sistemas desde 2021
-- 🥵 17 years
+- 🥵 18 years
 <div align="center">
   <a href="https://github.com/FreitinhasDuSenai)">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FreitinhasDuSenai&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
